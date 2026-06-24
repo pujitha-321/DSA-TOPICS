@@ -1,3 +1,4 @@
+//THIS IS THE PROGRAM TO REVERSE THE GIVEN ARRAYLIST
 import java.util.*;
 public class Reverselist {
     public static void main(String[] args){
