@@ -1,3 +1,4 @@
+//TO FIND THE MAXIMUM ELEMENT IN THE GIVEN ARRAYLIST
 import java.util.*;
 public class findmaxiArray {
     public static void main(String[] args){
